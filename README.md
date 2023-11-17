@@ -1,5 +1,5 @@
 # Disease-Predictor
-A functional disease predictor website that predicts diseases based on user inputs (upto 8) with 97% accuracy using KNN. Complete with a login and registration page coded in PHP, HTML, CSS and JavaScript using MySQL for storage on local. Technologies used in the project: HTML, CSS, JavaScript, PHP, MySQL, Python, Machine Learningand Flask.
+A functional disease predictor website that predicts diseases based on user inputs (upto 8) with 97% accuracy using KNN. Complete with a login and registration page coded in PHP, HTML, CSS and JavaScript using MySQL for storage on local. Technologies used in the project: HTML, CSS, JavaScript, PHP, MySQL, Python, Machine Learning and Flask.
 
 - To view the website without login, go to index.html, change the line "/login" to "/home" in: 
 <script> 
