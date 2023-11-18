@@ -10,3 +10,4 @@ A functional disease predictor website that predicts diseases based on user inpu
 </script>
 
 - To experience the login system, you must have XAMPP with PHP and MySQL support, create a database and table in phpMyAdmin and modify the code in db.php to the credentials and table name you have set up in your MySQL.
+- You must also change the path to db.php in login.php and register.php to the current folder where db.php is present in the "include() statement".
